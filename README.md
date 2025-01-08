@@ -3,12 +3,12 @@ Just for fun - electoral implications of a US/Canada merger
 
 ### Approach
 Hypothetical effect of a US/Canada Merger:
-1. All Canadian provinces with a population >60,000 would be eligible for US statehood
+1. All Canadian provinces with a population >60,000 would be eligible for US statehood (per the [1878 Northwest Ordinance](https://www.archives.gov/milestone-documents/northwest-ordinance#:~:text=And%2C%20whenever%20any%20of%20the,a%20permanent%20constitution%20and%20State))
 2. Each State receives a minimum of 1 representative
 3. All remaining representatives would be assigned proportionally based on the population
 
 ### Results
-10 Canadian Provinces would be eligible for statehood
+10 Canadian Provinces would be eligible for statehood:
 * 'Ontario': 15600000
 * 'Quebec': 8800000
 * 'British Columbia': 5500000
@@ -20,6 +20,7 @@ Hypothetical effect of a US/Canada Merger:
 * 'Newfoundland and Labrador': 520000
 * 'Prince Edward Island': 170000
 
+The overall effect of a US/Canada merger would be:
 |  | **Region** | **Population** | **Current Representatives** | **Proposed Representatives** | **Difference** |
 |---|---|---|---|---|---|
 | 0 | California | 39538223 | 52 | 44 | -8 |

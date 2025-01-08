@@ -5,6 +5,8 @@ Just for fun - electoral implications of a US/Canada merger
 * How would the House of Representatives change?
 * Which US states would lose the most?
 
+[](https://github.com/nickmmark/us-canada-congress/blob/main/Representatives_lost.png)
+
 ### Approach
 Hypothetical effect of a US/Canada Merger:
 1. All Canadian provinces with a population >60,000 would be eligible for US statehood (per the [1878 Northwest Ordinance](https://www.archives.gov/milestone-documents/northwest-ordinance#:~:text=And%2C%20whenever%20any%20of%20the,a%20permanent%20constitution%20and%20State))

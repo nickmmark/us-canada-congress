@@ -2,7 +2,7 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Replace this with the actual path to your shapefile
+# Shapefile path
 shapefile_path = "/Users/nickmark 1/Coding/Election-data/110m_cultural/ne_110m_admin_1_states_provinces.shp"
 
 # Load the shapefile

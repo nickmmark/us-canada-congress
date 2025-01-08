@@ -5,7 +5,7 @@ Just for fun - electoral implications of a US/Canada merger
 * How would the House of Representatives change?
 * Which US states would lose the most?
 
-[](https://github.com/nickmmark/us-canada-congress/blob/main/Representatives_lost.png)
+![](https://github.com/nickmmark/us-canada-congress/blob/main/Representatives_lost.png)
 
 ### Approach
 Hypothetical effect of a US/Canada Merger:

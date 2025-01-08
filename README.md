@@ -83,3 +83,7 @@ The overall effect of a US/Canada merger would be:
 | 46 | North Dakota | 779094 | 1 | 1 | 0 |
 | 45 | South Dakota | 886667 | 1 | 1 | 0 |
 | 59 | Prince Edward Island | 170000 | 0 | 1 | 1 |
+
+### Data Sources
+* [US Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
+* [Statistics Canada](https://www150.statcan.gc.ca/n1/pub/91-215-x/91-215-x2024001-eng.htm?)
